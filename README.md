@@ -1,1 +1,2 @@
-# obisidian_note
+# obsidian_note
+
