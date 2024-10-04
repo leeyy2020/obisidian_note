@@ -1,4 +1,5 @@
 {
+  "installedPackagesHash": {},
   "packagesHash": {
     "default": {
       "packageId": "default",
@@ -11,7 +12,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/gpt-3-prompt-templates",
       "installed": false,
-      "downloads": 104104
+      "downloads": 104556
     },
     "dalle": {
       "packageId": "dalle",
@@ -24,7 +25,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-dalle-package",
       "installed": false,
-      "downloads": 104019
+      "downloads": 104476
     },
     "huggingface": {
       "packageId": "huggingface",
@@ -37,7 +38,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/huggingface",
       "installed": false,
-      "downloads": 104358
+      "downloads": 104807
     },
     "awesomePrompts": {
       "packageId": "awesomePrompts",
@@ -50,7 +51,7 @@
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
       "repo": "text-gen/awesome-tg-package",
       "installed": false,
-      "downloads": 9988
+      "downloads": 10436
     },
     "tts": {
       "packageId": "tts",
@@ -63,7 +64,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/TTS",
       "installed": false,
-      "downloads": 6330
+      "downloads": 6778
     },
     "vision": {
       "packageId": "vision",
@@ -76,7 +77,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
       "installed": false,
-      "downloads": 6328
+      "downloads": 6775
     },
     "smartConnections": {
       "packageId": "smartConnections",
@@ -89,7 +90,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
       "installed": false,
-      "downloads": 6328
+      "downloads": 6774
     },
     "Experimental": {
       "packageId": "Experimental",
@@ -102,7 +103,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/experimental-package",
       "installed": false,
-      "downloads": 6178
+      "downloads": 6625
     },
     "testExtension": {
       "core": true,
@@ -139,6 +140,5 @@
     }
   },
   "resources": {},
-  "installedPackagesHash": {},
   "subscriptions": []
 }
