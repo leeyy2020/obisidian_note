@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6bb22e8e4e2d7f1",
+            "id": "c958d2d4a81b3e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随机过程/预备知识.md",
+                "file": "随机过程/第一章/集合极限.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d714760c5f2338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随机过程/第一章/集合极限.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,25 +97,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随机过程/预备知识.md",
+                "file": "随机过程/第一章/集合极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4920bb9278f1d825",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "随机过程/预备知识.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随机过程/预备知识.md"
+                "file": "随机过程/第一章/集合极限.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,10 +168,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6bb22e8e4e2d7f1",
+  "active": "c958d2d4a81b3e9c",
   "lastOpenFiles": [
-    "未命名.md",
-    "随机过程/预备知识.md",
+    "随机过程/第一章/第一章.md",
+    "随机过程/第一章/集合极限.md",
+    "随机过程/随机过程.md",
+    "随机过程/第一章",
+    "随机过程/未命名.md",
+    "随机过程/随机过程 (249605).md",
+    "未命名.canvas",
     "随机过程",
     "README.md"
   ]

@@ -1,2 +1,9 @@
 obsidian
 note
+nodes
+Borel
+edges
+ChatGPT
+lim
+sup
+inf
